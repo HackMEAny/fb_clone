@@ -1,7 +1,7 @@
 # fb_clone
 ## Using React Js
 ## Packages used:-
-{
+{<br>
   "@material-ui/core": "^4.11.0",<br>
   "@material-ui/icons": "^4.9.1",<br>
   "firebase": "^7.19.1",<br>
